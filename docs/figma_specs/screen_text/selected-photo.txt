@@ -1,0 +1,17 @@
+# Selected photo (3:21820) h=1062.0
+y   10 x  12 h 12 | 04 · Capture / photo approval
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Ready for a closer look?
+y  208 x  22 h 14 | Selected photo · 1 image
+y  627 x  66 h 15 | Replace / retake
+y  627 x 280 h 15 | Remove
+y  698 x  65 h 13 | Send this photo for recognition
+y  721 x  65 h 13 | Identify food uploads this image for analysis.
+y  740 x  65 h 13 | Only the items you later confirm will be added to
+y  759 x  65 h 13 | inventory.
+y  812 x  22 h 13 | A photo may suggest names and counts. It cannot tell
+y  831 x  22 h 13 | exact weight, hidden ingredients, expiry or whether food
+y  850 x  22 h 13 | is safe.
+y  904 x 170 h 15 | Identify food
+y  976 x 138 h 15 | Choose from files

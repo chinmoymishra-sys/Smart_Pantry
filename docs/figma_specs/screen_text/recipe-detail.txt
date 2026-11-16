@@ -1,0 +1,38 @@
+# Recipe detail (3:23261) h=1452.0
+y   10 x  12 h 12 | 21 · Prepare / recipe overview
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Spinach chickpea skillet
+y  208 x  22 h 14 | A quick, comforting lunch for two.
+y  527 x  34 h 17 | 5 min
+y  527 x 157 h 17 | 12 min
+y  527 x 279 h 17 | 17 min
+y  555 x  34 h 12 | Prep
+y  555 x 157 h 12 | Cook
+y  555 x 279 h 12 | Total
+y  614 x 314 h 18 | 2
+y  615 x  22 h 15 | Easy · 2 servings
+y  682 x  65 h 13 | 4 of 4 required ingredients available
+y  705 x  65 h 13 | Uses your spinach due 8 Nov. Optional lemon is
+y  724 x  65 h 13 | not needed to make this dish.
+y  776 x  22 h 20 | Available
+y  814 x  22 h 13 | Spinach
+y  814 x 174 h 13 | 100 g · have 150 g
+y  845 x  22 h 13 | Tomatoes
+y  845 x 174 h 13 | 2 pieces · have 4
+y  876 x  22 h 13 | Chickpeas
+y  876 x 174 h 13 | 1 tin · have 2 tins · 240 g drained
+y  895 x 174 h 13 | per tin
+y  926 x  22 h 13 | Olive oil
+y  926 x 174 h 13 | 15 ml · have 50 ml
+y  981 x  38 h 13 | OPTIONAL
+y 1012 x  38 h 15 | ½ lemon · not in inventory
+y 1046 x  38 h 13 | Skip it or add a squeeze to finish.
+y 1077 x  38 h 13 | NEED TO BUY · None required
+y 1131 x  22 h 20 | What you’ll need
+y 1165 x  22 h 14 | Frying pan, knife, chopping board, colander and
+y 1185 x  22 h 14 | wooden spoon.
+y 1240 x 110 h 15 | View 4 numbered instructions
+y 1312 x 168 h 15 | Start cooking
+y 1369 x  22 h 12 | Timings are practical estimates; adjust to your hob and
+y 1386 x  22 h 12 | ingredients. Photo is an illustrative serving suggestion.

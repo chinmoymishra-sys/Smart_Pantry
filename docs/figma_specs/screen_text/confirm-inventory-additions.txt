@@ -1,0 +1,26 @@
+# Confirm inventory additions (3:22045) h=1152.0
+y   10 x  12 h 12 | 06b · Review / ready to save
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Ready for your pantry
+y  208 x  22 h 14 | 3 of 3 selected items confirmed
+y  462 x  65 h 13 | Reviewed by you
+y  485 x  65 h 13 | You confirmed the names, quantities and
+y  504 x  65 h 13 | storage below. Quality and safety remain not
+y  523 x  65 h 13 | assessed.
+y  592 x  70 h 15 | Spinach · 150 g
+y  619 x  70 h 13 | Raw · Fridge · Use by 8 Nov (your date)
+y  650 x  70 h 15 | Tomatoes · 4 pieces
+y  677 x  70 h 13 | Raw · Fridge · Use by 11 Nov (your date)
+y  708 x  70 h 15 | Green peas · 300 g
+y  735 x  70 h 13 | Frozen · Freezer · Expiry not set
+y  806 x  38 h 13 | Before saving
+y  806 x 190 h 13 | 9 unique items
+y  837 x  38 h 13 | After saving
+y  837 x 190 h 13 | 12 unique items
+y  868 x  38 h 13 | Storage totals
+y  868 x 190 h 13 | Fridge 6 · Freezer 2 · Pantry
+y  887 x 190 h 13 | 4
+y  957 x 134 h 15 | Confirm & save 3 items
+y 1029 x 102 h 15 | Go back and edit selections
+y 1086 x  22 h 12 | Save is the only action here that adds these items to inventory.

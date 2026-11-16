@@ -1,0 +1,48 @@
+# Overview (3:21597) h=1463.0
+y   10 x  12 h 12 | 01 · Start here / 9 items before capture
+y   63 x  26 h 15 | 9:41
+y  105 x  22 h 28 | Smart Pantry
+y  152 x  22 h 14 | Friday, 6 November · Our household
+y  208 x  38 h 32 | 9 items.
+y  243 x  38 h 32 | All in one place.
+y  292 x  38 h 14 | Know what you have. Make something
+y  312 x  38 h 14 | good.
+y  367 x  22 h 20 | Bring your groceries in
+y  425 x  66 h 13 | Camera
+y  425 x 250 h 13 | Upload photo
+y  493 x  66 h 13 | Barcode / QR
+y  493 x 250 h 13 | Add manually
+y  565 x  36 h 13 | Freezer
+y  565 x 159 h 13 | Fridge
+y  565 x 281 h 13 | Pantry
+y  588 x  36 h 25 | 1
+y  588 x 159 h 25 | 4
+y  588 x 281 h 25 | 4
+y  653 x  22 h 20 | Use soon
+y  658 x 285 h 13 | View inventory
+y  707 x  72 h 15 | Plain yogurt · 400 g
+y  733 x  72 h 13 | Best before 9 Nov · in 3 days
+y  756 x  72 h 12 | Date entered by you · 1 low-stock item
+y  808 x  22 h 20 | A little inspiration
+y  812 x 323 h 13 | All meals
+y  858 x 128 h 11 | BREAKFAST
+y  878 x 128 h 15 | Berry & yogurt oats
+y  904 x 128 h 12 | 3 of 3 available
+y  954 x 128 h 11 | LUNCH
+y  974 x 128 h 15 | Spinach chickpea skillet
+y 1000 x 128 h 12 | 2 of 4 available
+y 1050 x 128 h 11 | SNACKS
+y 1070 x 128 h 15 | Paneer tomato toast
+y 1096 x 128 h 12 | 1 of 3 available
+y 1146 x 128 h 11 | DINNER
+y 1166 x 128 h 15 | Peas & onion rice
+y 1192 x 128 h 12 | 2 of 4 available
+y 1237 x  22 h 20 | Recently at home
+y 1242 x 334 h 13 | History
+y 1275 x  22 h 14 | Added plain yogurt · Today, 8:20
+y 1307 x  22 h 14 | Added milk · Today, 8:18
+y 1339 x  22 h 12 | Counts are unique food items, not combined quantities.
+y 1418 x  32 h 11 | Overview
+y 1418 x 128 h 11 | Scan/Add
+y 1418 x 224 h 11 | Inventory
+y 1418 x 329 h 11 | Meals

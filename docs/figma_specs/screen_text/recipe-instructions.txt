@@ -1,0 +1,38 @@
+# Recipe instructions (3:23342) h=1245.0
+y   10 x  12 h 12 | 22 · Prepare / full method
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | One pan. Four steps.
+y  208 x  22 h 14 | Spinach chickpea skillet · serves 2
+y  432 x  68 h 15 | Prep the ingredients
+y  438 x  34 h 14 | 1
+y  460 x  68 h 12 | About 5 minutes
+y  483 x  68 h 14 | Wash 100 g spinach and 2 tomatoes. Roughly
+y  503 x  68 h 14 | chop both. Drain and rinse 1 tin of chickpeas
+y  523 x  68 h 14 | (240 g drained). Set out 15 ml olive oil.
+y  563 x  68 h 15 | Soften the tomatoes
+y  570 x  34 h 14 | 2
+y  591 x  68 h 12 | About 6 minutes
+y  614 x  68 h 14 | Warm 15 ml olive oil in a frying pan over
+y  634 x  68 h 14 | medium heat. Add the chopped tomatoes and
+y  654 x  68 h 14 | cook for about 6 minutes, stirring, until
+y  674 x  68 h 14 | softened. Lower the heat if they catch.
+y  714 x  68 h 15 | Warm the chickpeas
+y  720 x  34 h 14 | 3
+y  742 x  68 h 12 | About 4 minutes
+y  765 x  68 h 14 | Stir in the drained chickpeas. Cook for about 4
+y  785 x  68 h 14 | minutes, stirring occasionally, until warmed
+y  805 x  68 h 14 | through. If the pan is dry, add a small splash of
+y  825 x  68 h 14 | water.
+y  865 x  68 h 15 | Wilt, then serve
+y  872 x  34 h 14 | 4
+y  893 x  68 h 12 | About 2 minutes
+y  916 x  68 h 14 | Fold in 100 g spinach and stir for about 2
+y  936 x  68 h 14 | minutes, until wilted. Divide between 2 bowls.
+y  956 x  68 h 14 | Finish with optional lemon if you have it. Adjust
+y  976 x  68 h 14 | the timing to your pan.
+y 1030 x  65 h 13 | Before you begin
+y 1053 x  65 h 13 | Check your ingredients and their storage history.
+y 1072 x  65 h 13 | Follow package guidance; recorded dates and
+y 1091 x  65 h 13 | recipe photos don’t establish food safety.
+y 1159 x 104 h 15 | Start step-by-step cooking

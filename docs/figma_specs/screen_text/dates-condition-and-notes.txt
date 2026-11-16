@@ -1,0 +1,33 @@
+# Dates condition and notes (3:22988) h=1530.0
+y   10 x  12 h 12 | 18 · Edit continuation / all inventory fields
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | The details that matter
+y  208 x  22 h 14 | Spinach · editable review or inventory details
+y  252 x  22 h 13 | Date added
+y  292 x  36 h 15 | 6 Nov 2026
+y  348 x  22 h 13 | Purchase date (optional)
+y  388 x  36 h 15 | 6 Nov 2026
+y  444 x  22 h 13 | Date type
+y  484 x  36 h 15 | Use by ⌄
+y  540 x  22 h 13 | Expiry / best-before (optional)
+y  580 x  36 h 15 | 8 Nov 2026
+y  623 x  22 h 12 | Source: entered by you. Leave blank if unknown.
+y  660 x  22 h 13 | Opened / prepared date (optional)
+y  700 x  36 h 15 | Not set
+y  756 x  22 h 13 | Quality / condition
+y  796 x  36 h 15 | Not assessed ⌄
+y  852 x  22 h 13 | Freshness
+y  892 x  36 h 15 | Not assessed ⌄
+y  948 x  22 h 12 | You can record fresh, good, use soon or spoiled / unsafe after
+y  965 x  22 h 12 | your own assessment. The app cannot assess safety from a
+y  982 x  22 h 12 | photo.
+y 1019 x  22 h 13 | Notes
+y 1075 x  36 h 15 | Washed weight. For lunch this week.
+y 1162 x 202 h 15 | Replace photo
+y 1222 x 207 h 15 | Delete photo
+y 1279 x  22 h 13 | Low-stock alert (optional)
+y 1319 x  36 h 15 | Off · set a threshold in g
+y 1390 x  93 h 15 | Save details & return to review
+y 1447 x  22 h 12 | In a new-item flow, saving these details returns to
+y 1464 x  22 h 12 | confirmation; it does not silently add inventory.

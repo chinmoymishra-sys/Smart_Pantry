@@ -1,0 +1,57 @@
+# Inventory filters and sort (3:22634) h=1660.0
+y   10 x  12 h 12 | 13 · Track / refine the list
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Find what you need
+y  208 x  22 h 14 | Inventory filters · preview before applying
+y  251 x  22 h 20 | Storage
+y  310 x  36 h 13 | All
+y  310 x 107 h 13 | Fridge
+y  310 x 183 h 13 | Freezer
+y  310 x 266 h 13 | Pantry
+y  362 x  36 h 13 | Custom
+y  412 x  22 h 20 | Category
+y  471 x  56 h 13 | All foods
+y  471 x 146 h 13 | Vegetable
+y  471 x 244 h 13 | Fruit
+y  471 x 308 h 13 | Dairy
+y  523 x  36 h 13 | Meat
+y  523 x 104 h 13 | Grain
+y  523 x 173 h 13 | Spice
+y  523 x 244 h 13 | Packaged
+y  575 x  36 h 13 | Leftovers
+y  625 x  22 h 20 | Food state
+y  684 x  56 h 13 | Any
+y  684 x 116 h 13 | Raw
+y  684 x 179 h 13 | Cooked
+y  684 x 263 h 13 | Prepared
+y  736 x  36 h 13 | Frozen
+y  736 x 114 h 13 | Dried
+y  736 x 183 h 13 | Packaged
+y  786 x  22 h 20 | Condition / freshness
+y  845 x  56 h 13 | Any condition
+y  845 x 176 h 13 | Not assessed
+y  845 x 296 h 13 | Fresh
+y  897 x  36 h 13 | Good
+y  897 x 106 h 13 | Use soon
+y  897 x 200 h 13 | Spoiled / unsafe
+y  948 x  22 h 12 | Condition labels reflect a user’s recorded assessment, never a
+y  965 x  22 h 12 | safety judgment from a photo.
+y 1001 x  22 h 20 | Recorded expiry
+y 1060 x  36 h 13 | Any date
+y 1060 x 147 h 13 | Within 3 days
+y 1060 x 267 h 13 | Past date
+y 1112 x  36 h 13 | No date
+y 1162 x  22 h 20 | Stock
+y 1221 x  56 h 13 | All stock
+y 1221 x 145 h 13 | Low
+y 1221 x 207 h 13 | Out / unavailable
+y 1271 x  22 h 20 | Sort by
+y 1330 x  56 h 13 | Earliest expiry
+y 1330 x 179 h 13 | Name A–Z
+y 1382 x  36 h 13 | Recently added
+y 1382 x 169 h 13 | Quantity
+y 1433 x  22 h 12 | Quantity sorting groups compatible units. Undated items come
+y 1450 x  22 h 12 | last in expiry sorting.
+y 1502 x 153 h 15 | Show 2 items
+y 1574 x 148 h 15 | Reset all filters

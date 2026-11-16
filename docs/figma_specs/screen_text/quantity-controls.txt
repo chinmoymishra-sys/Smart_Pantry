@@ -1,0 +1,25 @@
+# Quantity controls (3:22828) h=1006.0
+y   10 x  12 h 12 | 15 · Track / adjustment preview
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | How much did you use?
+y  208 x  22 h 14 | Spinach · currently 150 g in the fridge
+y  265 x  56 h 13 | Consume
+y  265 x 151 h 13 | Set quantity
+y  332 x  38 h 13 | AMOUNT USED
+y  361 x 158 h 40 | 50 g
+y  423 x  38 h 12 | Tap the amount to type an exact value.
+y  476 x  22 h 13 | Unit
+y  516 x  36 h 15 | g ⌄
+y  588 x  38 h 13 | Current amount
+y  588 x 190 h 13 | 150 g
+y  619 x  38 h 13 | Use now
+y  619 x 190 h 13 | −50 g
+y  650 x  38 h 13 | Remaining
+y  650 x 190 h 13 | 100 g
+y  719 x  65 h 13 | Preview only
+y  742 x  65 h 13 | Nothing has been deducted. Set quantity
+y  761 x  65 h 13 | replaces a measured balance; Consume records
+y  780 x  65 h 13 | an amount used.
+y  848 x 130 h 15 | Confirm use of 50 g
+y  920 x 132 h 15 | Cancel · keep 150 g

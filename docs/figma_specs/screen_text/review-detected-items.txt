@@ -1,0 +1,43 @@
+# Review detected items (3:21859) h=1719.0
+y   10 x  12 h 12 | 05 · Review / before saving
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Review detected items
+y  208 x  22 h 14 | 3 selected · Your pantry still has 9 items
+y  414 x  65 h 13 | Estimates, not measurements
+y  437 x  65 h 13 | Check names, quantities and storage. Dates are
+y  456 x  65 h 13 | never guessed from appearance.
+y  544 x 110 h 12 | Food preview · check the original photo
+y  591 x  74 h 15 | Spinach
+y  604 x 330 h 13 | Edit
+y  616 x  74 h 12 | Suggested identity · review before saving
+y  647 x  38 h 14 | 150 g · you entered after weighing
+y  679 x  38 h 13 | Vegetable · Raw · Fridge
+y  710 x  38 h 12 | Quality / safety: not assessed
+y  727 x  38 h 12 | Use by 8 Nov · entered by you
+y  769 x  38 h 13 | Split / merge
+y  769 x 314 h 13 | Remove
+y  870 x 110 h 12 | Food preview · check the original photo
+y  918 x  74 h 15 | Tomatoes
+y  931 x 330 h 13 | Edit
+y  943 x  74 h 12 | Suggested identity · review before saving
+y  974 x  38 h 14 | About 4 pieces · visual estimate
+y 1006 x  38 h 13 | Vegetable · Raw · Fridge
+y 1037 x  38 h 12 | Quality / safety: not assessed
+y 1054 x  38 h 12 | Use by 11 Nov · entered by you
+y 1096 x  38 h 13 | Split / merge
+y 1096 x 314 h 13 | Remove
+y 1198 x 110 h 12 | Food preview · check the original photo
+y 1245 x  74 h 15 | Green peas?
+y 1258 x 330 h 13 | Edit
+y 1270 x  74 h 12 | Uncertain identity · please confirm
+y 1301 x  38 h 14 | 300 g · you entered after weighing
+y 1333 x  38 h 13 | Vegetable · Frozen · you confirmed · Freezer
+y 1364 x  38 h 12 | Quality / safety: not assessed
+y 1381 x  38 h 12 | Expiry not set
+y 1423 x  38 h 13 | Split / merge
+y 1423 x 314 h 13 | Remove
+y 1505 x 148 h 15 | Add a missing item
+y 1562 x  22 h 13 | Confirm “Green peas?” in Edit before saving. The save
+y 1581 x  22 h 13 | action becomes available after confirmation.
+y 1634 x 114 h 15 | Confirm 1 item to save 3

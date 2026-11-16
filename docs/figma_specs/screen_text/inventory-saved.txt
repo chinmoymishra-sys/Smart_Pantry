@@ -1,0 +1,23 @@
+# Inventory saved (3:22407) h=1055.0
+y   10 x  12 h 12 | 11 · Save / explicit confirmation
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | A good haul, all sorted.
+y  208 x  22 h 14 | Review complete · 3 confirmed items added
+y  586 x  38 h 13 | Spinach
+y  586 x 190 h 13 | 150 g · Fridge
+y  617 x  38 h 13 | Tomatoes
+y  617 x 190 h 13 | 4 pieces · Fridge
+y  648 x  38 h 13 | Green peas
+y  648 x 190 h 13 | 300 g · Freezer
+y  703 x  22 h 14 | You confirmed the identity and count of all 3 items.
+y  723 x  22 h 14 | Your pantry now has 12 unique food items.
+y  775 x  50 h 12 | Freezer 2
+y  775 x 176 h 12 | Fridge 6
+y  775 x 297 h 12 | Pantry 4
+y  839 x 148 h 15 | View inventory
+y  911 x 123 h 15 | What can I cook now?
+y 1010 x  33 h 11 | Overview
+y 1010 x 128 h 11 | Scan/Add
+y 1010 x 223 h 11 | Inventory
+y 1010 x 329 h 11 | Meals

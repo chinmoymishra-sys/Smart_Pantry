@@ -1,0 +1,32 @@
+# Split and merge detections (3:22346) h=1302.0
+y   10 x  12 h 12 | 10 · Review tools / optional branches
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | One item or two?
+y  208 x  22 h 14 | Organize detections without losing your edits.
+y  251 x  22 h 20 | Merge duplicate peas
+y  313 x  38 h 15 | ✓ Peas · 200 g · Freezer
+y  347 x  38 h 15 | ✓ Green peas · 100 g · Freezer
+y  381 x  38 h 13 | Both amounts entered by you, in the same unit.
+y  400 x  38 h 13 | Dates are not set.
+y  431 x  38 h 13 | Merged name
+y  431 x 190 h 13 | Green peas
+y  462 x  38 h 13 | Combined quantity
+y  462 x 190 h 13 | 300 g
+y  508 x 110 h 15 | Merge these 2 detections
+y  595 x  65 h 13 | Nothing is saved to inventory here
+y  618 x  65 h 13 | Merge keeps one reviewable item. Conflicting
+y  637 x  65 h 13 | dates or units must be resolved before
+y  656 x  65 h 13 | confirming.
+y  708 x  22 h 20 | Split a mixed detection
+y  770 x  38 h 15 | Example: “Spinach & herbs”
+y  804 x  38 h 13 | Use this if one detection contains different foods.
+y  823 x  38 h 13 | Enter each quantity; we won’t divide it by
+y  842 x  38 h 13 | guesswork.
+y  873 x  38 h 13 | Item name
+y  913 x  52 h 15 | Spinach
+y  961 x  38 h 13 | Quantity / unit
+y 1001 x  52 h 15 | 150 g · you entered
+y 1064 x 138 h 15 | Add another split item
+y 1128 x 137 h 15 | Review split items
+y 1216 x 120 h 15 | Done · return to review

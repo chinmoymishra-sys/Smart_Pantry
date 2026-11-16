@@ -1,0 +1,20 @@
+# Step-by-step cooking (3:23398) h=1119.0
+y   10 x  12 h 12 | 23 · Cook / focused cooking mode
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Soften the tomatoes
+y  208 x  22 h 14 | Spinach chickpea skillet · Step 2 of 4
+y  265 x  22 h 12 | 1 of 4 steps complete
+y  493 x  22 h 20 | Warm 15 ml olive oil in a frying pan
+y  522 x  22 h 20 | over medium heat.
+y  571 x  22 h 17 | Add 2 chopped tomatoes. Cook for about 6
+y  596 x  22 h 17 | minutes, stirring, until softened. Lower the
+y  621 x  22 h 17 | heat if they catch.
+y  679 x  38 h 38 | 04:32
+y  729 x  38 h 12 | remaining · 6-minute timer
+y  757 x  38 h 12 | Timer is a guide. Check the tomatoes as they cook.
+y  801 x 170 h 15 | Restart timer
+y  889 x 132 h 15 | Ingredients & quantities
+y  961 x 121 h 15 | Mark step complete & next
+y 1033 x  94 h 15 | Previous
+y 1033 x 221 h 15 | Exit & save progress

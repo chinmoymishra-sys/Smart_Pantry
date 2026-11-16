@@ -1,0 +1,45 @@
+# Edit detection (3:21948) h=1975.0
+y   10 x  12 h 12 | 06 · Review / resolve uncertainty
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Edit detected item
+y  208 x  22 h 14 | Nothing changes until you confirm.
+y  266 x  65 h 13 | Is this green peas?
+y  289 x  65 h 13 | The bag makes this identification uncertain.
+y  308 x  65 h 13 | Check the food or label; change the name if
+y  327 x  65 h 13 | needed.
+y  380 x  22 h 13 | Item name
+y  420 x  36 h 15 | Green peas
+y  489 x  56 h 13 | Yes, green peas
+y  489 x 190 h 13 | Different food
+y  540 x  22 h 13 | Category
+y  580 x  36 h 15 | Vegetable ⌄
+y  636 x  22 h 13 | Quantity
+y  636 x 207 h 13 | Unit
+y  676 x  36 h 15 | 300
+y  676 x 221 h 15 | g ⌄
+y  732 x  22 h 12 | User measured · not an AI weight estimate. Units also support
+y  749 x  22 h 12 | kg, ml, L, pieces, packets, boxes and servings.
+y  786 x  22 h 13 | Food state
+y  826 x  36 h 15 | Frozen ⌄
+y  882 x  22 h 13 | Storage location
+y  922 x  36 h 15 | Freezer ⌄
+y  978 x  22 h 13 | Quality / condition
+y 1018 x  36 h 15 | Not assessed ⌄
+y 1061 x  22 h 12 | A photo cannot establish food safety.
+y 1098 x  22 h 13 | Freshness
+y 1138 x  36 h 15 | Not assessed ⌄
+y 1194 x  22 h 13 | Date added
+y 1234 x  36 h 15 | 6 Nov 2026
+y 1290 x  22 h 13 | Purchase date
+y 1330 x  36 h 15 | 6 Nov 2026
+y 1386 x  22 h 13 | Expiry / best-before
+y 1426 x  36 h 15 | Not set
+y 1469 x  22 h 12 | Enter only from your own information or a product label.
+y 1506 x  22 h 13 | Opened / prepared date
+y 1546 x  36 h 15 | Not set
+y 1602 x  22 h 13 | Notes
+y 1658 x  36 h 15 | Weighed after purchase. Keep frozen.
+y 1745 x 114 h 15 | Replace / remove item photo
+y 1817 x 105 h 15 | Confirm item & return to review
+y 1889 x 136 h 15 | Remove detection

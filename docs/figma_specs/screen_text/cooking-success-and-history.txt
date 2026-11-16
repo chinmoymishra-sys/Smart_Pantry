@@ -1,0 +1,33 @@
+# Cooking success and history (3:23686) h=1300.0
+y   10 x  12 h 12 | 28 · Done / pantry updated
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Made it. Made the most of
+y  193 x  22 h 28 | it.
+y  240 x  22 h 14 | Lunch saved to cooking history
+y  530 x  70 h 15 | 4 deductions confirmed
+y  564 x  38 h 13 | Spinach
+y  564 x 190 h 13 | 150 g → 50 g
+y  595 x  38 h 13 | Tomatoes
+y  595 x 190 h 13 | 4 → 2 pieces
+y  626 x  38 h 13 | Chickpeas
+y  626 x 190 h 13 | 2 → 1 tin
+y  657 x  38 h 13 | Olive oil
+y  657 x 190 h 13 | 50 → 35 ml
+y  712 x  22 h 13 | 12 unique items remain · Fridge 6 · Freezer 2 · Pantry 4.
+y  731 x  22 h 13 | Olive oil is still low (threshold 60 ml).
+y  769 x  22 h 20 | Would you make it again?
+y  828 x  56 h 13 | Liked it
+y  828 x 137 h 13 | Not for me
+y  828 x 259 h 13 | Cook again
+y  894 x 152 h 15 | Save to favourites
+y  950 x  22 h 20 | Cooking history
+y 1002 x  38 h 15 | Spinach chickpea skillet
+y 1036 x  38 h 13 | Today, 12:45 · 2 servings · pantry updated
+y 1067 x  38 h 13 | Actual use: 100 g spinach, 2 tomatoes, 1 tin
+y 1086 x  38 h 13 | chickpeas, 15 ml olive oil.
+y 1156 x 136 h 15 | Back to my pantry
+y 1255 x  33 h 11 | Overview
+y 1255 x 128 h 11 | Scan/Add
+y 1255 x 224 h 11 | Inventory
+y 1255 x 328 h 11 | Meals

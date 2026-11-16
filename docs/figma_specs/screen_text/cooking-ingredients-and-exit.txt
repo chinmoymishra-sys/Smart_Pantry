@@ -1,0 +1,26 @@
+# Cooking ingredients and exit (3:23451) h=1036.0
+y   10 x  12 h 12 | 24 · Cook / ingredients within reach
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Everything for this pan
+y  208 x  22 h 14 | Step 2 of 4 · 2 servings · timer running
+y  268 x  72 h 15 | Tomatoes · 04:32 remaining
+y  325 x  22 h 20 | Required ingredients
+y  387 x  38 h 13 | Spinach
+y  387 x 190 h 13 | 100 g · washed and
+y  406 x 190 h 13 | chopped
+y  437 x  38 h 13 | Tomatoes
+y  437 x 190 h 13 | 2 pieces · chopped
+y  468 x  38 h 13 | Chickpeas
+y  468 x 190 h 13 | 1 tin · 240 g drained
+y  499 x  38 h 13 | Olive oil
+y  499 x 190 h 13 | 15 ml · 1 tablespoon
+y  553 x  22 h 20 | Optional
+y  599 x  22 h 15 | ½ lemon · not in inventory · skip it
+y  656 x 144 h 15 | Return to step 2
+y  728 x  38 h 20 | Need to step away?
+y  766 x  38 h 14 | Save your place and pause the in-app timer. Turn
+y  786 x  38 h 14 | off your hob before leaving the kitchen.
+y  833 x 127 h 15 | Pause & exit cooking
+y  882 x  38 h 12 | No ingredients are deducted when you exit.
+y  950 x  98 h 15 | End session without saving…

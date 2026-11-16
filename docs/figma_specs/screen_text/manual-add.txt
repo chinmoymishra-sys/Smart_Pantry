@@ -1,0 +1,33 @@
+# Manual add (3:22206) h=1221.0
+y   10 x  12 h 12 | 09 · Alternative capture / manual draft
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Add it your way
+y  208 x  22 h 14 | A manual draft · not yet in inventory
+y  252 x  22 h 13 | Item name
+y  292 x  36 h 15 | Carrots
+y  348 x  22 h 13 | Quantity
+y  348 x 207 h 13 | Unit
+y  388 x  36 h 15 | 2
+y  388 x 221 h 15 | pieces ⌄
+y  457 x  36 h 13 | g
+y  457 x  80 h 13 | kg
+y  457 x 131 h 13 | ml
+y  457 x 182 h 13 | L
+y  457 x 246 h 13 | pieces
+y  509 x  36 h 13 | packets
+y  509 x 121 h 13 | boxes
+y  509 x 194 h 13 | servings
+y  560 x  22 h 13 | Category
+y  600 x  36 h 15 | Vegetable ⌄
+y  656 x  22 h 13 | Food state
+y  696 x  36 h 15 | Raw ⌄
+y  752 x  22 h 13 | Storage
+y  792 x  36 h 15 | Fridge ⌄
+y  863 x 114 h 15 | Add an item photo (optional)
+y  934 x  65 h 13 | Only a name and quantity are required
+y  957 x  65 h 13 | Dates are optional. Unknown quality and
+y  976 x  65 h 13 | freshness stay “not assessed” until you record
+y  995 x  65 h 13 | your own observation.
+y 1063 x  94 h 15 | Next: dates, condition & notes
+y 1135 x 157 h 15 | Cancel draft

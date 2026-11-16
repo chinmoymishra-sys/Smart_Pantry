@@ -1,0 +1,37 @@
+# Confirm ingredient deductions (3:23607) h=1444.0
+y   10 x  12 h 12 | 27 · Update / explicit inventory confirmation
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | What did you use?
+y  208 x  22 h 14 | Proposed deductions · edit before confirming
+y  266 x  65 h 13 | Your inventory hasn’t changed
+y  289 x  65 h 13 | Adjust or skip any ingredient. We’ll apply only the
+y  308 x  65 h 13 | amounts you explicitly confirm below.
+y  377 x  72 h 15 | Spinach
+y  390 x 338 h 12 | Skip
+y  402 x  72 h 12 | Before: 150 g
+y  431 x  38 h 13 | Actually used · tap to edit
+y  471 x  52 h 15 | 100 g
+y  519 x  38 h 13 | After confirmation: 50 g remaining
+y  590 x  72 h 15 | Tomatoes
+y  602 x 338 h 12 | Skip
+y  615 x  72 h 12 | Before: 4 pieces
+y  644 x  38 h 13 | Actually used · tap to edit
+y  684 x  52 h 15 | 2 pieces
+y  732 x  38 h 13 | After confirmation: 2 pieces remaining
+y  803 x  72 h 15 | Chickpeas
+y  816 x 338 h 12 | Skip
+y  828 x  72 h 12 | Before: 2 tins
+y  857 x  38 h 13 | Actually used · tap to edit
+y  897 x  52 h 15 | 1 tin (240 g drained)
+y  945 x  38 h 13 | After confirmation: 1 tin remaining
+y 1016 x  72 h 15 | Olive oil
+y 1028 x 338 h 12 | Skip
+y 1041 x  72 h 12 | Before: 50 ml
+y 1070 x  38 h 13 | Actually used · tap to edit
+y 1110 x  52 h 15 | 15 ml
+y 1158 x  38 h 13 | After confirmation: 35 ml remaining
+y 1213 x  22 h 13 | Optional lemon isn’t stocked, so it isn’t deducted. No item
+y 1232 x  22 h 13 | will be marked finished with these amounts.
+y 1286 x 104 h 15 | Confirm 4 inventory deductions
+y 1358 x  80 h 15 | Not now · keep pantry unchanged

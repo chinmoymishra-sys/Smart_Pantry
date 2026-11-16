@@ -1,0 +1,29 @@
+# Manual add details (3:22283) h=1392.0
+y   10 x  12 h 12 | 09b · Manual draft / dates & final review
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | A few optional details
+y  208 x  22 h 14 | Carrots · 2 pieces · Raw · Fridge
+y  252 x  22 h 13 | Date added
+y  292 x  36 h 15 | 6 Nov 2026
+y  348 x  22 h 13 | Purchase date
+y  388 x  36 h 15 | 6 Nov 2026
+y  444 x  22 h 13 | Expiry / best-before
+y  484 x  36 h 15 | Not set
+y  527 x  22 h 12 | Leave blank when you don’t have a recorded date.
+y  564 x  22 h 13 | Opened / prepared date
+y  604 x  36 h 15 | Not set
+y  660 x  22 h 13 | Quality / condition
+y  700 x  36 h 15 | Not assessed ⌄
+y  756 x  22 h 13 | Freshness
+y  796 x  36 h 15 | Not assessed ⌄
+y  852 x  22 h 13 | Notes (optional)
+y  908 x  36 h 15 | Add your own notes
+y  995 x 138 h 15 | Add an optional photo
+y 1066 x  65 h 13 | Review your manual item
+y 1089 x  65 h 13 | Carrots · 2 pieces · Vegetable · Raw · Fridge. No
+y 1108 x  65 h 13 | expiry or safety assessment has been inferred.
+y 1161 x  22 h 13 | This alternative draft has not been saved and isn’t
+y 1180 x  22 h 13 | included in the 12-item household example.
+y 1234 x 138 h 15 | Confirm & add carrots
+y 1306 x 114 h 15 | Back to name & quantity

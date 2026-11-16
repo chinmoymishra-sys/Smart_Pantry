@@ -1,0 +1,15 @@
+# Camera capture (3:21773) h=945.0
+y   10 x  12 h 12 | 03 · Capture / camera
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Let’s see what you have
+y  208 x  22 h 14 | Food photo · Nothing is saved yet
+y  265 x  36 h 13 | Container
+y  265 x 132 h 13 | Single item
+y  265 x 256 h 13 | Groceries
+y  343 x  74 h 12 | Flash off
+y  688 x  54 h 14 | Keep foods separate and labels visible. For a
+y  708 x  54 h 14 | container, photograph the food and its label.
+y  794 x  42 h 12 | Gallery
+y  794 x 330 h 12 | Flip
+y  859 x 124 h 15 | Add manually instead

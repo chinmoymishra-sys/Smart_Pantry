@@ -1,0 +1,24 @@
+# Finish discard or remove (3:22939) h=1099.0
+y   10 x  12 h 12 | 17 · Track / item lifecycle
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | What happened to it?
+y  208 x  22 h 14 | Spinach · 150 g · choose an action
+y  268 x  38 h 15 | Mark as finished
+y  302 x  38 h 13 | Set balance to zero and keep its usage history.
+y  348 x 131 h 15 | Finished · used it all
+y  437 x  38 h 15 | Discard or mark unavailable
+y  471 x  38 h 13 | Discard records waste. Unavailable excludes the
+y  490 x  38 h 13 | item from meal suggestions without deleting it.
+y  534 x  72 h 13 | Discard
+y  534 x 155 h 13 | Unavailable
+y  616 x  38 h 20 | Discard all 150 g?
+y  654 x  38 h 13 | Reason (optional)
+y  694 x  52 h 15 | No longer usable · assessed by me
+y  742 x  38 h 13 | This sets the remaining amount to 0 g. Only confirm
+y  761 x  38 h 13 | after checking the item yourself.
+y  807 x 144 h 15 | Confirm discard
+y  871 x 166 h 15 | Keep item
+y  959 x 115 h 15 | Remove item and its photo…
+y 1016 x  22 h 12 | Remove asks for a separate final confirmation and deletes the
+y 1033 x  22 h 12 | item record, not just its remaining quantity.

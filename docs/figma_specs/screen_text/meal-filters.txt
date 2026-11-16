@@ -1,0 +1,43 @@
+# Meal filters (3:23164) h=1513.0
+y   10 x  12 h 12 | 20 · Discover / preferences
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Find your kind of meal
+y  208 x  22 h 14 | Suggestions adapt to your pantry and choices.
+y  251 x  22 h 20 | Meal type
+y  310 x  36 h 13 | Any meal
+y  310 x 129 h 13 | Breakfast
+y  310 x 244 h 13 | Lunch
+y  362 x  36 h 13 | Evening snacks
+y  362 x 168 h 13 | Dinner
+y  412 x  22 h 20 | Total time
+y  471 x  36 h 13 | Any time
+y  471 x 126 h 13 | Under 15 min
+y  471 x 263 h 13 | Under 30 min
+y  523 x  36 h 13 | Under 60 min
+y  573 x  22 h 20 | Difficulty
+y  632 x  36 h 13 | Any
+y  632 x 116 h 13 | Easy
+y  632 x 182 h 13 | Intermediate
+y  682 x  22 h 20 | Pantry match
+y  741 x  56 h 13 | Available only
+y  741 x 176 h 13 | Fewest missing
+y  793 x  56 h 13 | Use soon first
+y  844 x  22 h 12 | Available only means all required ingredients are stocked.
+y  861 x  22 h 12 | Optional extras don’t affect the match.
+y  897 x  22 h 20 | Dietary preference
+y  956 x  36 h 13 | No preference
+y  956 x 180 h 13 | Vegetarian
+y  956 x 283 h 13 | Vegan
+y 1008 x  36 h 13 | Dairy-free
+y 1059 x  22 h 13 | Allergies / exclude ingredients
+y 1099 x  36 h 15 | No exclusions added · Edit
+y 1142 x  22 h 12 | Review ingredient labels and cross-contact risks yourself.
+y 1178 x  22 h 20 | Cuisine or food preference
+y 1237 x  56 h 13 | Any cuisine
+y 1237 x 162 h 13 | Indian-inspired
+y 1289 x  36 h 13 | Mediterranean
+y 1289 x 162 h 13 | One-pot
+y 1289 x 250 h 13 | Comfort food
+y 1355 x 137 h 15 | Show 1 lunch idea
+y 1427 x 136 h 15 | Reset preferences

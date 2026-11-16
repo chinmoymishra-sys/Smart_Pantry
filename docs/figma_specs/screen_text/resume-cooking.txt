@@ -1,0 +1,24 @@
+# Resume cooking (3:23509) h=1192.0
+y   10 x  12 h 12 | 25 · Cook / paused session
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Pick up where you left off
+y  208 x  22 h 14 | Cooking paused · your pantry is unchanged
+y  497 x  22 h 20 | Spinach chickpea skillet
+y  556 x  22 h 12 | 1 of 4 steps complete
+y  609 x  38 h 15 | Next: Step 2 · Soften the tomatoes
+y  643 x  38 h 14 | 1 step completed · 2 servings
+y  675 x  38 h 13 | Timer paused at
+y  675 x 190 h 13 | 04:32 remaining
+y  706 x  38 h 13 | The in-app timer is paused, but food can keep
+y  725 x  38 h 13 | cooking. Check the pan before resuming.
+y  795 x 163 h 15 | Resume step 2
+y  867 x  90 h 15 | View recipe from the beginning
+y  939 x 104 h 15 | Discard cooking progress…
+y 1010 x  65 h 13 | Inventory stays in your control
+y 1033 x  65 h 13 | Ingredient deductions are proposed only after
+y 1052 x  65 h 13 | cooking and need your confirmation.
+y 1147 x  33 h 11 | Overview
+y 1147 x 128 h 11 | Scan/Add
+y 1147 x 224 h 11 | Inventory
+y 1147 x 328 h 11 | Meals

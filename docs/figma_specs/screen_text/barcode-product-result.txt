@@ -1,0 +1,28 @@
+# Barcode product result (3:22145) h=1238.0
+y   10 x  12 h 12 | 08 · Alternative capture / sample result
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Product found
+y  208 x  22 h 14 | Review product details before adding.
+y  315 x  38 h 20 | Rolled oats
+y  353 x  38 h 15 | Hearth & Mill · 500 g packet
+y  387 x  38 h 12 | Illustrative sample catalog record, not verified product
+y  404 x  38 h 12 | data. Nutrition is not provided.
+y  457 x  22 h 13 | Brand
+y  497 x  36 h 15 | Hearth & Mill
+y  553 x  22 h 13 | Category / state
+y  593 x  36 h 15 | Grain · Packaged
+y  649 x  22 h 13 | Purchased
+y  649 x 207 h 13 | Package size
+y  689 x  36 h 15 | 1 packet
+y  689 x 221 h 15 | 500 g
+y  745 x  22 h 13 | Purchase date
+y  785 x  36 h 15 | 6 Nov 2026 · you entered
+y  841 x  22 h 13 | Best-before date
+y  881 x  36 h 15 | Not set · enter from the package
+y  951 x  65 h 13 | Oats already in your pantry
+y  974 x  65 h 13 | You have 500 g. Review a merge into 1,000 g or
+y  993 x  65 h 13 | keep this package separate. Nothing has been
+y 1012 x  65 h 13 | added.
+y 1080 x  88 h 15 | Review item & duplicate options
+y 1152 x  93 h 15 | Wrong product? Edit all details

@@ -1,0 +1,21 @@
+# Move inventory item (3:22892) h=1088.0
+y   10 x  12 h 12 | 16 · Track / move preview
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | A new spot for spinach
+y  208 x  22 h 14 | 150 g · currently in the fridge
+y  251 x  22 h 20 | Move to
+y  318 x  72 h 15 | Fridge · current location
+y  402 x  72 h 15 | Freezer
+y  486 x  72 h 15 | Pantry
+y  570 x  72 h 15 | Custom location
+y  633 x  22 h 13 | Custom location name (if selected)
+y  673 x  36 h 15 | e.g. Garage shelf
+y  743 x  65 h 13 | Storage and state are different
+y  766 x  65 h 13 | Moving an item won’t automatically mark it
+y  785 x  65 h 13 | frozen or change its expiry. Review those fields
+y  804 x  65 h 13 | yourself.
+y  857 x  22 h 13 | Preview: Fridge 5 · Freezer 3 · Pantry 4. Total stays 12
+y  876 x  22 h 13 | unique items.
+y  930 x 114 h 15 | Confirm move to freezer
+y 1002 x 122 h 15 | Cancel · keep in fridge

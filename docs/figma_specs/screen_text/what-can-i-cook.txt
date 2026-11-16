@@ -1,0 +1,57 @@
+# What can I cook (3:23057) h=2596.0
+y   10 x  12 h 12 | 19 · Discover / 12-item pantry
+y   63 x  26 h 15 | 9:41
+y  105 x  22 h 28 | What can I cook?
+y  152 x  22 h 14 | Good food starts with what’s already here.
+y  211 x 102 h 15 | Filters
+y  211 x 258 h 15 | Use soon first
+y  281 x  56 h 13 | All meals
+y  281 x 147 h 13 | Breakfast
+y  281 x 242 h 13 | Lunch
+y  281 x 316 h 13 | Snacks
+y  333 x  36 h 13 | Dinner
+y  398 x  65 h 13 | Make the most of your spinach
+y  421 x  65 h 13 | Your recorded use-by date is 8 Nov. The lunch
+y  440 x  65 h 13 | skillet uses 100 g of your 150 g.
+y  681 x  38 h 11 | BREAKFAST
+y  706 x  38 h 20 | Berry & yogurt oats
+y  742 x  38 h 14 | A warm bowl with a cool, creamy finish.
+y  772 x  38 h 12 | 3 min prep · 5 min cook · Easy · Serves 1
+y  799 x  38 h 13 | 3 of 3 required ingredients available
+y  828 x  38 h 13 | Available / planned use: Oats 50 g · Blueberries 50 g
+y  847 x  38 h 13 | · Yogurt 100 g
+y  876 x  38 h 12 | Optional: Honey · not in inventory
+y  916 x  38 h 14 | View recipe
+y 1171 x  38 h 11 | LUNCH
+y 1196 x  38 h 20 | Spinach chickpea skillet
+y 1232 x  38 h 14 | Tender greens, tomatoes and golden chickpeas.
+y 1262 x  38 h 12 | 5 min prep · 12 min cook · Easy · Serves 2
+y 1289 x  38 h 13 | 4 of 4 required ingredients available
+y 1318 x  38 h 13 | Available / planned use: Spinach 100 g · Tomatoes 2 ·
+y 1337 x  38 h 13 | Chickpeas 1 tin · Olive oil 15 ml
+y 1366 x  38 h 12 | Optional: ½ lemon · not in inventory
+y 1406 x  38 h 14 | View recipe
+y 1661 x  38 h 11 | SNACKS
+y 1686 x  38 h 20 | Paneer tomato toast
+y 1722 x  38 h 14 | A crisp, savory afternoon pick-me-up.
+y 1752 x  38 h 12 | 5 min prep · 5 min cook · Easy · Serves 2
+y 1779 x  38 h 13 | 2 of 3 required ingredients available
+y 1808 x  38 h 13 | Available / planned use: Paneer 100 g · Tomato 1
+y 1837 x  38 h 13 | Need to buy: Bread · 2 slices
+y 1878 x  38 h 14 | View recipe
+y 2134 x  38 h 11 | DINNER
+y 2159 x  38 h 20 | Peas & onion rice
+y 2195 x  38 h 14 | A simple one-pot dinner for a quiet evening.
+y 2225 x  38 h 12 | 5 min prep · 20 min cook · Easy · Serves 2
+y 2252 x  38 h 13 | 3 of 4 required ingredients available
+y 2281 x  38 h 13 | Available / planned use: Rice 150 g · Green peas 100
+y 2300 x  38 h 13 | g · Olive oil 10 ml
+y 2329 x  38 h 13 | Need to buy: Onion · 1 piece
+y 2370 x  38 h 14 | View recipe
+y 2438 x  22 h 12 | Matches use confirmed quantities, not photos. Suggestions
+y 2455 x  22 h 12 | reflect selected preferences, not allergy guarantees. Photos
+y 2472 x  22 h 12 | are illustrative.
+y 2551 x  33 h 11 | Overview
+y 2551 x 128 h 11 | Scan/Add
+y 2551 x 224 h 11 | Inventory
+y 2551 x 328 h 11 | Meals

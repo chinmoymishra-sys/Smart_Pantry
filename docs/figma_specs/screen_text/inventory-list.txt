@@ -1,0 +1,67 @@
+# Inventory list (3:22472) h=1771.0
+y   10 x  12 h 12 | 12 · Track / after saving 3 items
+y   63 x  26 h 15 | 9:41
+y  105 x  22 h 28 | Your inventory
+y  152 x  22 h 14 | 12 unique items · updated just now
+y  208 x  36 h 28 | 2
+y  208 x 158 h 28 | 6
+y  208 x 280 h 28 | 4
+y  248 x  36 h 12 | Freezer
+y  248 x 158 h 12 | Fridge
+y  248 x 280 h 12 | Pantry
+y  312 x  36 h 13 | 2 use soon
+y  312 x 140 h 13 | 1 low stock
+y  312 x 245 h 13 | 0 out
+y  377 x  68 h 15 | Search food by name
+y  450 x 102 h 15 | Filters
+y  450 x 267 h 15 | Sort: expiry
+y  520 x  56 h 13 | All storage
+y  520 x 158 h 13 | Fridge
+y  520 x 234 h 13 | Freezer
+y  520 x 317 h 13 | Pantry
+y  570 x  22 h 20 | Fridge · 6 items
+y  610 x  22 h 15 | Spinach
+y  622 x 316 h 14 | 150 g
+y  636 x  22 h 12 | Raw · Use by 8 Nov · your date
+y  681 x  22 h 15 | Plain yogurt
+y  692 x 313 h 14 | 400 g
+y  707 x  22 h 12 | Packaged · Best before 9 Nov · your date
+y  752 x  22 h 15 | Tomatoes
+y  764 x 315 h 14 | 4 pcs
+y  778 x  22 h 12 | Raw · Use by 11 Nov · your date
+y  823 x  22 h 15 | Milk
+y  834 x 334 h 14 | 1 L
+y  849 x  22 h 12 | Packaged · Use by 12 Nov · your date
+y  894 x  22 h 15 | Paneer
+y  906 x 314 h 14 | 200 g
+y  920 x  22 h 12 | Packaged · Use by 14 Nov · your date
+y  965 x  22 h 15 | Eggs
+y  976 x 316 h 14 | 6 pcs
+y  991 x  22 h 12 | Raw · Best before 18 Nov · your date
+y 1041 x  22 h 20 | Freezer · 2 items
+y 1081 x  22 h 15 | Green peas
+y 1092 x 313 h 14 | 300 g
+y 1107 x  22 h 12 | Frozen · No date recorded
+y 1152 x  22 h 15 | Blueberries
+y 1164 x 314 h 14 | 250 g
+y 1178 x  22 h 12 | Frozen · No date recorded
+y 1228 x  22 h 20 | Pantry · 4 items
+y 1268 x  22 h 15 | Chickpeas
+y 1280 x 316 h 14 | 2 tins
+y 1294 x  22 h 12 | Packaged · 240 g drained per tin
+y 1339 x  22 h 15 | Oats
+y 1350 x 314 h 14 | 500 g
+y 1365 x  22 h 12 | Dried · No date recorded
+y 1410 x  22 h 15 | Rice
+y 1422 x 326 h 14 | 1 kg
+y 1436 x  22 h 12 | Dried · No date recorded
+y 1481 x  22 h 15 | Olive oil
+y 1492 x 315 h 14 | 50 ml
+y 1507 x  22 h 12 | Low stock · threshold 60 ml
+y 1558 x  22 h 12 | Use-soon reminders: stored dates within 3 days. Quality and
+y 1575 x  22 h 12 | safety are not assessed. Quantities remain in their own units.
+y 1627 x 183 h 15 | Add food
+y 1726 x  33 h 11 | Overview
+y 1726 x 128 h 11 | Scan/Add
+y 1726 x 223 h 11 | Inventory
+y 1726 x 329 h 11 | Meals

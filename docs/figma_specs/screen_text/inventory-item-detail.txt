@@ -1,0 +1,30 @@
+# Inventory item detail (3:22757) h=1246.0
+y   10 x  12 h 12 | 14 · Track / spinach
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Spinach
+y  208 x  22 h 14 | Vegetable · Raw · Fridge
+y  484 x  22 h 38 | 150 g
+y  490 x 129 h 13 | Weighed and entered by you
+y  509 x 129 h 13 | Added 6 Nov 2026
+y  566 x  65 h 13 | Use by 8 November · in 2 days
+y  589 x  65 h 13 | Date entered by you. This is a date reminder, not
+y  608 x  65 h 13 | an assessment that the food is safe.
+y  677 x  38 h 13 | Quality / safety
+y  677 x 190 h 13 | Not assessed
+y  708 x  38 h 13 | Freshness
+y  708 x 190 h 13 | Not assessed
+y  739 x  38 h 13 | Purchase date
+y  739 x 190 h 13 | 6 Nov 2026
+y  770 x  38 h 13 | Opened / prepared
+y  770 x 190 h 13 | Not set
+y  801 x  38 h 13 | Notes
+y  801 x 190 h 13 | Washed weight. For lunch
+y  820 x 190 h 13 | this week.
+y  890 x 142 h 15 | Consume / use some
+y  962 x  55 h 15 | Adjust quantity
+y  962 x 288 h 15 | Move
+y 1034 x 149 h 15 | Edit all item details
+y 1106 x 112 h 15 | Finish, discard or remove
+y 1163 x  22 h 12 | Check smell, texture, packaging and storage history. Follow
+y 1180 x  22 h 12 | official food-safety guidance when unsure.

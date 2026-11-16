@@ -1,0 +1,45 @@
+# Loading offline and sync states (3:23979) h=2171.0
+y   12 x  12 h 12 | 32 · State library / waiting & staying in control
+y   94 x  36 h 11 | RECOGNITION · LOADING
+y  163 x  36 h 20 | Taking a closer look…
+y  201 x  36 h 14 | Looking for separate foods and visible labels.
+y  221 x  36 h 14 | You’ll review everything before saving.
+y  271 x  36 h 13 | Photo uploaded · identifying items
+y  317 x 134 h 15 | Cancel recognition
+y  408 x  36 h 11 | MEALS · SECTION LOADING
+y  477 x  36 h 20 | Refreshing lunch ideas
+y  515 x  36 h 14 | Your inventory and other meals remain available
+y  535 x  36 h 14 | while this section updates.
+y  797 x  36 h 11 | INVENTORY · OFFLINE
+y  866 x  36 h 20 | Offline, still organized
+y  904 x  36 h 14 | Showing your last saved 12 items and
+y  924 x  36 h 14 | downloaded recipes. Manual edits stay on this
+y  944 x  36 h 14 | device until you reconnect.
+y  990 x  79 h 13 | 1 change waiting to sync
+y 1013 x  79 h 13 | Spinach note edited on this device. Food
+y 1032 x  79 h 13 | quantities are unchanged.
+y 1092 x  94 h 15 | Continue with saved inventory
+y 1156 x 134 h 15 | Add food manually
+y 1205 x  36 h 12 | Photo recognition and product lookup need a connection.
+y 1276 x  36 h 11 | INVENTORY · SYNC FAILED
+y 1345 x  36 h 20 | One change needs syncing
+y 1383 x  36 h 14 | Your spinach note is saved on this device, but
+y 1403 x  36 h 14 | couldn’t reach your household account. Don’t re-
+y 1423 x  36 h 14 | add the item; retry this same change.
+y 1455 x  36 h 13 | Pending update
+y 1455 x 188 h 13 | Spinach · note edit
+y 1486 x  36 h 13 | Inventory quantities
+y 1486 x 188 h 13 | Unchanged
+y 1532 x 163 h 15 | Retry sync
+y 1596 x 124 h 15 | View pending change
+y 1687 x  36 h 11 | SYNC · CONFLICTING EDIT
+y 1756 x  36 h 20 | Choose which note to keep
+y 1794 x  36 h 14 | The spinach note changed on another device too.
+y 1814 x  36 h 14 | Neither version will overwrite the other without
+y 1834 x  36 h 14 | your choice.
+y 1882 x  52 h 12 | THIS DEVICE · NOT YET SYNCED
+y 1911 x  52 h 14 | Washed weight. For lunch this week.
+y 1943 x  52 h 12 | HOUSEHOLD · LAST SYNCED
+y 1972 x  52 h 14 | Use for tomorrow’s lunch.
+y 2035 x 120 h 15 | Keep this device’s note
+y 2099 x 126 h 15 | Keep household note

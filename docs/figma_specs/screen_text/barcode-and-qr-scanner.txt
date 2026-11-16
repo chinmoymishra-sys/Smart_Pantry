@@ -1,0 +1,14 @@
+# Barcode and QR scanner (3:22109) h=1003.0
+y   10 x  12 h 12 | 07 · Alternative capture / barcode
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | Scan a barcode or QR
+y  208 x  22 h 14 | For packaged food with a product code.
+y  494 x  74 h 14 | Place the whole code inside the frame
+y  602 x  30 h 14 | Keep the package steady and avoid glare. We’ll look
+y  622 x 100 h 14 | for a matching product record.
+y  677 x 185 h 15 | Flash off
+y  734 x  22 h 13 | Or enter the code
+y  774 x  36 h 15 | Type barcode number
+y  845 x 152 h 15 | Look up code
+y  917 x 101 h 15 | No code? Take a food photo

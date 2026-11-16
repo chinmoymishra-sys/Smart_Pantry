@@ -1,0 +1,16 @@
+# Cooking completion (3:23572) h=1085.0
+y   10 x  12 h 12 | 26 · Finish / check what happened
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | How did it go?
+y  208 x  22 h 14 | All 4 steps complete · 2 servings
+y  531 x  22 h 20 | Did you make the skillet?
+y  577 x  22 h 15 | We’ll help update your pantry with what you
+y  599 x  22 h 15 | actually used. Nothing has been deducted yet.
+y  697 x  38 h 15 | Spinach chickpea skillet
+y  731 x  38 h 13 | 17 min estimated · Lunch · Prepared today
+y  801 x 112 h 15 | Yes · review ingredients used
+y  873 x 106 h 15 | Not yet · save my progress
+y  945 x 124 h 15 | Skip inventory update
+y 1002 x  22 h 12 | Skipping leaves all quantities unchanged. You can record
+y 1019 x  22 h 12 | actual usage later from cooking history.

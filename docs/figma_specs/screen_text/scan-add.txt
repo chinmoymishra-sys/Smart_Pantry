@@ -1,0 +1,21 @@
+# Scan & add (3:21712) h=987.0
+y   10 x  12 h 12 | 02 · Capture / choose a method
+y   63 x  26 h 15 | 9:41
+y  105 x  22 h 28 | What’s coming home?
+y  152 x  22 h 14 | Add a little or a whole grocery haul.
+y  424 x  77 h 15 | Take a photo
+y  450 x  77 h 13 | Containers, one item or market groceries
+y  513 x  77 h 15 | Upload a photo
+y  539 x  77 h 13 | Choose from your gallery or files
+y  602 x  77 h 15 | Scan barcode / QR
+y  628 x  77 h 13 | Look up a packaged product
+y  691 x  77 h 15 | Add manually
+y  717 x  77 h 13 | You know it best. No scan needed.
+y  786 x  65 h 13 | You always get the final say
+y  809 x  65 h 13 | Review and edit every item before it goes into
+y  828 x  65 h 13 | your pantry. We’ll ask for camera or photo
+y  847 x  65 h 13 | access only when you use it.
+y  942 x  33 h 11 | Overview
+y  942 x 126 h 11 | Scan/Add
+y  942 x 224 h 11 | Inventory
+y  942 x 329 h 11 | Meals

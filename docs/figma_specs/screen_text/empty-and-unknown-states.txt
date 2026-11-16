@@ -1,0 +1,42 @@
+# Empty and unknown states (3:23834) h=2097.0
+y   12 x  12 h 12 | 30 · State library / starting & finding
+y   78 x  20 h 13 | Compact screen-state variants · same mobile scale
+y  135 x  36 h 11 | OVERVIEW · FIRST USE
+y  204 x  36 h 20 | A fresh start for your pantry
+y  242 x  36 h 14 | 0 items · Fridge 0 · Freezer 0 · Pantry 0. Add your
+y  262 x  36 h 14 | first food to see storage summaries, date
+y  282 x  36 h 14 | reminders and meal ideas.
+y  329 x 129 h 15 | Scan your first groceries
+y  393 x 118 h 15 | Start with manual entry
+y  484 x  36 h 11 | MEALS · NO MATCHES
+y  553 x  36 h 20 | Nothing fits just yet
+y  591 x  36 h 14 | No lunch ideas match Available only + Under 15
+y  611 x  36 h 14 | min. Your inventory is still here; try a wider
+y  631 x  36 h 14 | search.
+y  676 x  70 h 13 | Available only
+y  676 x 210 h 13 | Under 15 min
+y  734 x  90 h 15 | Allow a few missing ingredients
+y  798 x 141 h 15 | Clear meal filters
+y  889 x  36 h 11 | BARCODE · UNKNOWN PRODUCT
+y  958 x  36 h 20 | We couldn’t find this product
+y  996 x  36 h 14 | No catalog record for code 8900000000123. No
+y 1016 x  36 h 14 | brand, nutrition or package size has been filled in.
+y 1063 x 128 h 15 | Take a food / label photo
+y 1127 x 118 h 15 | Enter product manually
+y 1191 x 134 h 15 | Try scanning again
+y 1282 x  36 h 11 | RECIPE · REQUIRED INGREDIENT MISSING
+y 1351 x  36 h 20 | Almost there for toast
+y 1389 x  36 h 14 | Paneer tomato toast has 2 of 3 required
+y 1409 x  36 h 14 | ingredients. Bread is required, not optional.
+y 1599 x  36 h 13 | Available
+y 1599 x 188 h 13 | Paneer 100 g · Tomato 1
+y 1630 x  36 h 13 | Need to buy
+y 1630 x 188 h 13 | Bread · 2 slices
+y 1676 x  80 h 15 | See recipes with no missing items
+y 1767 x  36 h 11 | INVENTORY · REMOVE CONFIRMATION
+y 1836 x  36 h 20 | Remove spinach from inventory?
+y 1874 x  36 h 14 | This removes the spinach record and its item
+y 1894 x  36 h 14 | photo. To keep a usage or waste entry instead,
+y 1914 x  36 h 14 | choose Finished or Discard.
+y 1961 x  96 h 15 | Remove spinach permanently
+y 2025 x 136 h 15 | Cancel · keep item

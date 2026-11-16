@@ -1,0 +1,54 @@
+# Capture recovery states (3:23905) h=2657.0
+y   12 x  12 h 12 | 31 · State library / capture & permissions
+y   78 x  20 h 13 | Shown only after the relevant capture action
+y  135 x  36 h 11 | CAMERA · PERMISSION DENIED
+y  204 x  36 h 20 | Camera access is off
+y  242 x  36 h 14 | Smart Pantry needs camera access to
+y  262 x  36 h 14 | photograph food or scan a barcode. Enable it in
+y  282 x  36 h 14 | Settings, or add food another way.
+y  329 x 125 h 15 | Open device Settings
+y  393 x 118 h 15 | Upload a photo instead
+y  457 x 153 h 15 | Add manually
+y  548 x  36 h 11 | GALLERY · PERMISSION DENIED
+y  617 x  36 h 20 | Your photos stay private
+y  655 x  36 h 14 | Photo access is off. Allow selected-photo access
+y  675 x  36 h 14 | in Settings to choose an image, or select a file
+y  695 x  36 h 14 | instead. Choosing an image doesn’t upload it.
+y  742 x 128 h 15 | Open photo Settings
+y  806 x 138 h 15 | Choose from files
+y  870 x 153 h 15 | Add manually
+y  961 x  36 h 11 | RECOGNITION · NO FOOD DETECTED
+y 1030 x  36 h 20 | We couldn’t make out the food
+y 1068 x  36 h 14 | The image may be too dark, blurry or covered. No
+y 1088 x  36 h 14 | detections were saved. Try a closer, well-lit photo
+y 1108 x  36 h 14 | with the food visible.
+y 1155 x  92 h 15 | Retake / choose another photo
+y 1219 x 132 h 15 | Add items manually
+y 1310 x  36 h 11 | REVIEW · UNCERTAIN DETECTIONS
+y 1379 x  36 h 20 | A couple of names need you
+y 1417 x  36 h 14 | These are suggestions, not confirmed facts. Edit
+y 1437 x  36 h 14 | or remove each detection. Quality and safety: not
+y 1457 x  36 h 14 | assessed.
+y 1505 x  52 h 15 | Peas? · 1 bag · estimated
+y 1539 x  52 h 13 | Freezer suggested · identity uncertain
+y 1585 x 128 h 15 | Confirm or edit peas
+y 1634 x  52 h 15 | Spinach? · 1 bunch · estimated
+y 1668 x  52 h 13 | Fridge suggested · identity uncertain
+y 1714 x 118 h 15 | Confirm or edit spinach
+y 1779 x  36 h 12 | Save stays unavailable until selected items are confirmed.
+y 1850 x  36 h 11 | PHOTO UPLOAD · FAILED
+y 1919 x  36 h 20 | Your photo didn’t upload
+y 1957 x  36 h 14 | The connection stopped before the upload
+y 1977 x  36 h 14 | finished. Your selected photo is still here. No
+y 1997 x  36 h 14 | items have been added.
+y 2044 x 140 h 15 | Retry this upload
+y 2108 x 112 h 15 | Replace or remove photo
+y 2172 x 124 h 15 | Add manually instead
+y 2263 x  36 h 11 | RECOGNITION · UNAVAILABLE
+y 2332 x  36 h 20 | Recognition needs a moment
+y 2370 x  36 h 14 | The recognition service isn’t responding. We
+y 2390 x  36 h 14 | haven’t created or saved any items. You can retry,
+y 2410 x  36 h 14 | use a barcode or enter food yourself.
+y 2457 x 126 h 15 | Try recognition again
+y 2521 x 134 h 15 | Scan barcode / QR
+y 2585 x 153 h 15 | Add manually

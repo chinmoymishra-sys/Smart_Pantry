@@ -1,0 +1,30 @@
+# Activity and scan history (3:23766) h=1279.0
+y   10 x  12 h 12 | 29 · History / household record
+y   63 x  26 h 15 | 9:41
+y  121 x  48 h 13 | Back
+y  161 x  22 h 28 | A little more organized
+y  208 x  22 h 14 | Friday, 6 November · Activity
+y  265 x  56 h 13 | All activity
+y  265 x 156 h 13 | Food added
+y  265 x 266 h 13 | Cooking
+y  317 x  36 h 13 | Scans
+y  384 x  72 h 15 | Cooked spinach chickpea skillet
+y  410 x  72 h 13 | 12:45 · 2 servings · deductions confirmed
+y  433 x  72 h 13 | Spinach −100 g · Tomatoes −2 pieces
+y  452 x  72 h 13 | Chickpeas −1 tin · Olive oil −15 ml
+y  523 x  38 h 15 | 3 items added after review
+y  557 x  38 h 13 | 10:04 · Spinach, tomatoes and green peas
+y  757 x 108 h 15 | Review saved scan record
+y  821 x  98 h 15 | Delete scan photo & record…
+y  910 x  38 h 15 | Plain yogurt added
+y  944 x  38 h 13 | 8:20 · 400 g · Fridge
+y  975 x  38 h 15 | Milk added
+y 1009 x  38 h 13 | 8:18 · 1 L · Fridge
+y 1078 x  65 h 13 | Your record, your choice
+y 1101 x  65 h 13 | Deleting a scan record asks for confirmation.
+y 1120 x  65 h 13 | Confirmed inventory items remain unless you
+y 1139 x  65 h 13 | remove them separately.
+y 1234 x  32 h 11 | Overview
+y 1234 x 128 h 11 | Scan/Add
+y 1234 x 224 h 11 | Inventory
+y 1234 x 329 h 11 | Meals
